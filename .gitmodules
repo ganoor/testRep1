@@ -1,0 +1,4 @@
+[submodule "DB_Utility"]
+	path = DB_Utility
+	url = https://github.com/newtglobalgit/DMAP_Utility_Suite
+	branch = service
